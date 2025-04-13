@@ -144,6 +144,11 @@ Tim:
 
 ![image.png](/Imagens/image%2016.png)
 
+
+## Autoavaliação
+
 Podemos observar, principalmente através dos indicadores **IND4 “*Cumprimento da Velocidade de download e upload*”** e **IND8 “*Disponibilidade*”**, que a CLARO e TIM possuem similaridades no comportamento do indicador de velocidade (IND4), enquanto a VIVO possui um breve ganho de performance em relação as outras concorrentes. Já no indicador de Disponibilidade é notório que a TIM apresenta poucas variações entre os períodos dos meses apresentados, enquanto a CLARO e VIVO mantêm uma constância em obter o máximo resultado na disponibilização da rede móvel no município.
 
 As diferenças são poucas e sutis, mas podem pesar em uma escolha quando for levado em consideração pelo cliente e consumidor final.
+
+Os conjuntos de dados são massivos e nem sempre lidar com dados de órgãos públicos são de fáceis manuseio. Creio que o objetivo foi atingido ao responder aos questionamentos e a facilidade de pode visualizar as informações, todo o trabalho foi um ótimo desenvolvimento para contribuir aos meus skills como profissional na carreira de dados.
