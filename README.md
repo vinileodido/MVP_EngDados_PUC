@@ -61,7 +61,7 @@ A abordagem que foi utilizada pode ser analisada na seguinte arquitetura:
 
 ![Architecture_MVP.png](/Imagens/Architecture_MVP.png)
 
-os dados são coletados da origem e armazenados localmente no ambiente do cluster; ao invés de carregá-los para a camada ***Bronze***, os mantive “*as-is* ” dentro do repositorio de coleta e carreguei para um job via duckdb para realizar um pré-processamento.
+os dados são coletados da origem e armazenados localmente no ambiente do cluster; ao invés de carregá-los para a camada ***Bronze***, os mantive “*as-is* ” dentro do repositorio de coleta, sendo realizado uma transformação de formato de "CSV" para "Parquet", visando facilitar a ingestão de dados e compatibilidade entre os ambientes spark; posteriormente carreguei os arquivos parquet para um job via duckdb de maneira a realizar tratativas pontuais e um pré-processamento.
 
 Após os dados transformados e normalizados, foram carregados para a camada ***Silver.***
 
