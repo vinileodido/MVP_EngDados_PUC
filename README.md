@@ -108,7 +108,7 @@ A última apresenta índices de qualidade de serviço dos municípios brasileiro
 
 ![image.png](/Imagens/image%209.png)
 
-![image.png]/Imagens/(image%2010.png)
+![image.png](/Imagens/image%2010.png)
 
 ### ERBs por Prestadora - Visão Unidades Federativas (UF)
 
