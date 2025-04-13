@@ -51,6 +51,8 @@ Os arquivo serão obtidos via download para um repositório temporário no clust
 
 # Modelagem
 
+![modelo_dados_MVP.png](/Imagens/modelo_dados_MVP.png)
+
 # Carga de Dados
 
 A carga dos dados está sendo realizada na plataforma Databricks Community, as anotações mais técnicas e passos realizados poderão ser vistos no notebook: https://github.com/vinileodido/MVP_EngDados_PUC/blob/def249e55cc013022dd589c1fd6791513664e67f/databricks_mvp_anatel_smp.ipynb
