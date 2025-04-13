@@ -55,7 +55,10 @@ Os arquivo serão obtidos via download para um repositório temporário no clust
 
 # Carga de Dados
 
-A carga dos dados está sendo realizada na plataforma Databricks Community, as anotações mais técnicas e passos realizados poderão ser vistos no notebook: https://github.com/vinileodido/MVP_EngDados_PUC/blob/def249e55cc013022dd589c1fd6791513664e67f/databricks_mvp_anatel_smp.ipynb
+A carga dos dados está sendo realizada na plataforma Databricks Community, as anotações mais técnicas e passos realizados poderão ser vistos no notebook exportados para o repo do github: https://github.com/vinileodido/MVP_EngDados_PUC/blob/def249e55cc013022dd589c1fd6791513664e67f/databricks_mvp_anatel_smp.ipynb
+
+O notebook também pode ser consultado na plataforma databricks community:
+https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/485071250346786/4381550024588233/3094106010032147/latest.html
 
 A abordagem que foi utilizada pode ser analisada na seguinte arquitetura:
 
